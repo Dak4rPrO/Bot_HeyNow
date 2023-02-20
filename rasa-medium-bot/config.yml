@@ -45,7 +45,7 @@ policies:
 #     epochs: 100
 #     constrain_similarities: true
 
-tracker_store:
-    type: mongod
-    url: mongodb+srv://MauriMiranda:perracamila24@firstchatbot-heynow.6bdrqe9.mongodb.net/test
+#tracker_store:
+#    type: mongod
+#    url: mongodb+srv://MauriMiranda:perracamila24@firstchatbot-heynow.6bdrqe9.mongodb.net/test
  

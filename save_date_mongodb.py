@@ -6,7 +6,13 @@ from connect_mongodb import connect_mongodb
 def save_date(city, temperature, description):
     """ function to save date in MongoDB Atlas """
 
+    plataforma = event.text
     database = connect_mongodb()
-    database.insert_one({
-        'city': city, 'temperature': temperature, 'description': description
+    
+    database.insert_one(userid = {
+        plataforma: {
+            'clave21': 'valor21',
+            'clave22': 'valor22'
+        }
     })
+    
