@@ -4,7 +4,7 @@ from telethon import TelegramClient, events
 from pymongo import MongoClient
 
 # CONEXION A MONGODB ATLAS
-clientMongodb = MongoClient('mongodb+srv://MauriMiranda:perracamila24@\
+clientMongodb = MongoClient('mongodb+srv://MauriMiranda:*******@\
 							firstchatbot-heynow.6bdrqe9.mongodb.net/test')
 db = clientMongodb['Respaldo-de-datos']
 
