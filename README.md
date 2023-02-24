@@ -73,3 +73,8 @@ Comandos disponibles:
 - A pesar de que lo intente por todo 1 dia, no pude correr el bot en un servidor web.
 - Si le hubiera podido dedicar todos los dias, me gustaria haber probado enlazar GPT3 al bot, y tambien una api del clima (mis 3 principales ideas del bot en 1).
 - Solo vi 2 video tutoriales, documentacion de pymongo, telethon y Microsoft (esta ultima no me sirvio de nada), extenciones de Visual Code supieron ayudar, y por ultimo pero no menos importante, chatgpt para debuguear.
+
+
+### El bot en Telegram vergonzosamente se encuentra como @World_Climate_Bot xD, no habia tiempo de cambiar el bot, y por ser un prototipo, asi se quedó.
+
+[![imagen-2023-02-23-231816119.png](https://i.postimg.cc/KY2FCw9C/imagen-2023-02-23-231816119.png)](https://postimg.cc/BjMdKYfC)
