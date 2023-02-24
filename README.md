@@ -1,8 +1,8 @@
-# Bot_HeyNow  
+# Bot_HeyNow  | FINALIZADO  
 
-RE-INICIO JUEVES 14:30 HS (UN DIA PARA TERMINAR)  
+RE-INICIO JUEVES 14:30 HS (UN DIA ANTES DE TERMINAR)  
   
-Primera idea de como serian las iteraciones:
+### Primera idea de como serian las iteraciones:  
 
 (1) /guardar  
 (2) /mirar  
@@ -44,7 +44,7 @@ bot: msg: "Usuario y contraseña eliminados"
 
 ----------------------------------------------------------------
 
-Al final termine agragando mas funciones, estas son:
+### Al final termine agragando mas funciones, estas son:
 
 Comandos disponibles:
     
