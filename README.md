@@ -78,4 +78,4 @@ Comandos disponibles:
 ### El bot en Telegram vergonzosamente se encuentra como @World_Climate_Bot xD, no habia tiempo de cambiar el bot, y por ser un prototipo, asi se quedó.
 
 [![imagen-2023-02-23-231816119.png](https://i.postimg.cc/KY2FCw9C/imagen-2023-02-23-231816119.png)](https://postimg.cc/BjMdKYfC)
-[![imagen-2023-02-24-002426339.png](https://i.postimg.cc/66Z34Dbs/imagen-2023-02-24-002426339.png)](https://postimg.cc/23zmPXfT)
+[![imagen-2023-02-27-163514255.png](https://i.postimg.cc/4xbnw7qr/imagen-2023-02-27-163514255.png)](https://postimg.cc/bZrzwJzT)
